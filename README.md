@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development project
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me niharikaaarav@gmail.com
+- 📫 How to reach me 
 
 <!---
 24niharika/24niharika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
